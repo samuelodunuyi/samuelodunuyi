@@ -18,4 +18,4 @@ Python, TypeScript, LangGraph, FastAPI, PyTorch, React, Next.js, C#, .NET, Postg
 - **shopsaver.** Role-based point-of-sale frontend in Next.js, with a documented, accessible component library.
 
 ### Contact
-samuelodunuyi@gmail.com · [LinkedIn]https://www.linkedin.com/in/samuel-odunuyi-8b9147196
+samuelodunuyi@gmail.com · [LinkedIn](https://www.linkedin.com/in/samuel-odunuyi-8b9147196)
