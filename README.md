@@ -1,21 +1,54 @@
-# Samuel Abayomi
+<div align="center">
 
-Engineer working on AI systems, with four years building full stack products behind them.
+# Samuel Odunuyi
 
-Most of my recent work is on agent architectures. Recoup is a multi-agent engine that recovers failed payments across African payment rails, using LangGraph for orchestration, FastAPI for the service layer and pgvector for retrieval. My MSc research at Hertfordshire fine-tuned T5-Small for language-conditioned task planning in AI2-THOR, training across 400 episodes from the ALFRED and LAMBDA datasets with CUDA, CuPy and Numba.
+**Engineer building AI systems, with four years behind them in production full stack work.**
 
-The full stack side runs alongside it. I've built and led work on production platforms in fintech, HR, payroll and retail, so I care as much about what happens after a model returns a result as I do about the model itself. That work belongs to my employers and clients, so the projects here are my own builds of the same kinds of problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-odunuyi-8b9147196)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelodunuyi@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=samuelodunuyi&style=for-the-badge&color=6366f1)](https://github.com/samuelodunuyi)
 
-I also published peer-reviewed research on IoT monitoring systems during my BSc, now cited over 20 times.
+</div>
 
-### Working with
-Python, TypeScript, LangGraph, FastAPI, PyTorch, React, Next.js, C#, .NET, PostgreSQL, pgvector
+---
 
-### Projects
-- **Recoup.** Multi-agent failed-payment recovery on African payment rails. LangGraph, FastAPI, pgvector.
-- **Language-conditioned task planning.** MSc research fine-tuning T5-Small to plan household tasks in a simulated environment.
-- **hr-mate.** Multi-tenant HR and payroll API in .NET, with approval workflows, audit trails and background jobs.
-- **shopsaver.** Role-based point-of-sale frontend in Next.js, with a documented, accessible component library.
+### About
 
-### Contact
-samuelodunuyi@gmail.com · [LinkedIn](https://www.linkedin.com/in/samuel-odunuyi-8b9147196)
+- Building multi-agent systems and the infrastructure that makes them reliable
+- MSc in Artificial Intelligence and Robotics, University of Hertfordshire
+- Four years shipping production platforms across fintech, HR, payroll and retail
+- Published IoT research with 20+ citations, *Journal of the Nigerian Society of Physical Sciences*
+- Ask me about LangGraph, agent evaluation, .NET APIs at scale, or anything React
+- Reach me at samuelodunuyi@gmail.com
+
+### Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,dotnet,react,nextjs,vue,fastapi,postgres,docker,pytorch,git,azure&perline=7" />
+</p>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=samuelodunuyi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelodunuyi&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+### Featured Work
+
+**[Vendli](https://github.com/samuelodunuyi/vendli)** · Next.js · TypeScript
+Role-based point-of-sale frontend. Admin, manager and cashier each get their own interface and permissions, with a documented, accessible component library behind them.
+
+**[Recoup](https://github.com/samuelodunuyi/recoup)** · LangGraph · FastAPI · pgvector
+Multi-agent engine that recovers failed payments across African payment rails. Retry strategy, channel selection and escalation are handled by coordinating agents rather than a fixed rules table.
+
+**[Task Planning](https://github.com/samuelodunuyi/task-planning)** · PyTorch · CUDA
+MSc research fine-tuning T5-Small for language-conditioned task planning in AI2-THOR, trained across 400 episodes from the ALFRED and LAMBDA datasets.
+
+---
+
+<div align="center">
+<sub>Most of my production work belongs to my employers and clients, so the projects here are my own builds of the same problems.</sub>
+</div>
