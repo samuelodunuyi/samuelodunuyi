@@ -47,6 +47,9 @@ Multi-agent engine that recovers failed payments across African payment rails. R
 **[Task Planning](https://github.com/samuelodunuyi/task-planning)** · PyTorch · CUDA
 MSc research fine-tuning T5-Small for language-conditioned task planning in AI2-THOR, trained across 400 episodes from the ALFRED and LAMBDA datasets.
 
+**[PharmaStep](https://github.com/samuelodunuyi/pharmastep)** · Next.js · TypeScript · Postgres
+Online pharmacy with prescription checks, Paystack payments and order tracking. Its pharmacist chat is a grounded AI assistant: code triages emergencies before the model, advice is cited from vetted health sites, doses come only from pharmacist-approved labels, every reply is checked before sending, and an eval suite guards against regressions.
+
 ---
 
 <div align="center">
