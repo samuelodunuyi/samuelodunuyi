@@ -56,5 +56,5 @@ Online pharmacy with prescription checks, Paystack payments and order tracking. 
 ---
 
 <div align="center">
-<sub>Most of my production work belongs to my employers and clients, so the projects here are my own builds of the same problems.</sub>
+<sub>Most of my production work belongs to my employers and clients, so the projects here are just my personal builds.</sub>
 </div>
