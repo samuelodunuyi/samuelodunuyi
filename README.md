@@ -41,6 +41,9 @@
 **[Vendli](https://github.com/samuelodunuyi/vendli)** · Next.js · TypeScript
 Role-based point-of-sale frontend. Admin, manager and cashier each get their own interface and permissions, with a documented, accessible component library behind them.
 
+**[Pulsewise](https://github.com/samuelodunuyi/pulsewise)** · Vue 3 · Tailwind · Chart.js
+Hospital management dashboard covering patients, appointments, beds, rotas and billing. Records link to each other, so admitting a patient updates their ward, a deleted patient takes their bills and bookings with them, and the whole thing works on a phone.
+
 **[Recoup](https://github.com/samuelodunuyi/recoup)** · LangGraph · FastAPI · pgvector
 Multi-agent engine that recovers failed payments across African payment rails. Retry strategy, channel selection and escalation are handled by coordinating agents rather than a fixed rules table.
 
