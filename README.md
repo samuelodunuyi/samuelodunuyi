@@ -38,7 +38,7 @@
 
 ### Featured Work
 
-**[Vendli](https://github.com/samuelodunuyi/vendli)** · Next.js · TypeScript
+**[Vendli](https://github.com/samuelodunuyi/Vendli)** · React.js · TypeScript
 Role-based point-of-sale frontend. Admin, manager and cashier each get their own interface and permissions, with a documented, accessible component library behind them.
 
 **[Pulsewise](https://github.com/samuelodunuyi/pulsewise)** · Vue 3 · Tailwind · Chart.js
