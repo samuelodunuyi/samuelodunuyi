@@ -54,6 +54,9 @@ MSc research fine-tuning T5-Small for language-conditioned task planning in AI2-
 Online pharmacy with prescription checks, Paystack payments and order tracking. Its pharmacist chat is a grounded AI assistant: code triages emergencies before the model, advice is cited from vetted health sites, doses come only from pharmacist-approved labels, every reply is checked before sending, and an eval suite guards against regressions.
 
 ---
+<p align="center">
+<a href="https://github.com/samuelodunuyi?tab=repositories&type=source&sort=updated"><b>See all my projects →</b></a>
+</p>
 
 <div align="center">
 <sub>Most of my production work belongs to my employers and clients, so the projects here are just my personal builds.</sub>
